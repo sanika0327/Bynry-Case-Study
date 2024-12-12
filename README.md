@@ -26,5 +26,7 @@ This project is a web application built using **React** and **Mapbox** that allo
 ## Setup & Installation
 
 ### 1. Clone the repository
+### 2. Extract TASK.zip
+### 3. cd TASK\work
 ### 2. npm install
 ### 3. npm run dev
