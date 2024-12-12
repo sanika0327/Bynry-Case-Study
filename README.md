@@ -1,4 +1,4 @@
-# Bynry-Case-Study  website here: [My App](https://your-live-site-url.com)
+# Bynry-Case-Study : [website-link](https://bynry-profile-explorer.netlify.app/)
 # Profile Explorer Web Application
 
 ## Overview
